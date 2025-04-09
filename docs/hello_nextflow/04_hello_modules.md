@@ -86,7 +86,7 @@ mkdir modules
 
 ---
 
-## 2. Create a module for `sayHello()`
+## 2. Create a module for the process `sayHello()`
 
 In its simplest form, turning an existing process into a module is little more than a copy-paste operation.
 We're going to create a file stub for the module, copy the relevant code over then delete it from the main workflow file.
